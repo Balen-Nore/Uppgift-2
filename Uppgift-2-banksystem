@@ -1,0 +1,53 @@
+Utveckling av ett banksystem
+
+ Projekt: Skapa ett system som kan hantera bankkonton, transaktioner, lån och kundtjänst på ett säkert och enkelt sätt.
+
+ Fas 1: Kravinsamling
+ -Mål: Samla in och dokumentera allt systemet måste kunna.
+ -steg:
+  1. Prata med bankpersonal för att förstå deras behov.
+  2. Lista funktionerna systemet ska ha, t.ex. kontohantering och lån.
+  3. Dokumentera viktiga krav som säkerhet och snabbhet.
+  4. Sammanställ allt i ett kravdokument som alla godkänner.
+
+ Fas 2: Design 
+-Mål: Skapa en plan för hur systemet ska byggas. 
+-steg:
+  1. Designa hur hela systemet ska fungera.
+  2. Planera varje del, t.ex. kontohantering och kundtjänst.
+  3. Skapa en säker databas för kundinformation.
+  4. Gör enkla och tydliga användargränssnitt för internet- och mobilbank.
+
+ Fas 3: Utveckling
+ -Mål: Bygga systemet enligt planen. 
+-steg:
+  1. Bygg funktioner för konton, transaktioner, lån och kundtjänst.
+  2. Se till att alla delar fungerar tillsammans och med bankens övriga system.
+
+ Fas 4: Testning 
+-Mål: Säkerställa att allt fungerar korrekt. 
+-steg:
+  1. Testa varje del för sig.
+  2. Testa hur alla delar fungerar ihop.
+  3. Gör omfattande tester av hela systemet.
+  4. Testa säkerheten noggrant.
+
+
+
+
+ Fas 5: Lansering 
+-Mål: Införa systemet i banken. 
+-steg:
+  1. Installera systemet på bankens servrar.
+  2. Träna personalen i hur systemet fungerar.
+  3. Testa systemet med en liten kundgrupp.
+  4. Släpp systemet för alla kunder.
+
+ Fas 6: Underhåll 
+-Mål: Hålla systemet säkert och fungerande. 
+-steg:
+  1. Uppdatera systemet för att skydda mot nya hot.
+  2. Fixa eventuella buggar och optimera prestandan.
+  3. Lägg till nya funktioner vid behov.
+
+Genom att följa denna steg-för-steg-process kan man bygga ett säkert och användarvänligt system för banken. Det är viktigt att planera varje steg noggrant för att undvika problem och kostsamma förändringar. Denna metod kallas Vattenfallsmodellen och fungerar bra när kraven är tydliga från början.
